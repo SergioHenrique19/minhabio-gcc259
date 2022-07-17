@@ -1,4 +1,5 @@
 # Meu currículo
+  ![foto](./img/perfil.jpeg)
 
 ## Dados pessoais
   - **Nome:** Sérgio Henrique Menta Garcia
